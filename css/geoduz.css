@@ -1,0 +1,12 @@
+#duz{	
+	margin-top:10px;
+	padding:10px 0px 10px 0px;
+	border:1px solid #fff;
+	color:#fff;
+}
+#duz:hover{
+	background:#999;	
+	color:#000;
+	cursor:pointer;
+	border-style:dotted;
+}
